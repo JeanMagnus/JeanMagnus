@@ -1,16 +1,18 @@
-## Hi there 👋
+## Bem vindo ao meu perfil do GitHub 😁
 
-<!--
-**JeanMagnus/JeanMagnus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Olá! Meu nome é Jean Magnus, sou técnico em informática formado pelo IFRN, bacharel em ciências e tecnologia pela UFRN e estudante de engenharia de computação também na UFRN. <br>
+  Estudo tecnologias para desenvolvimento full stack, mas atualmente estou aprendendo programação para microcontroladores e pretendo me aperfeiçoar em tecnologias para sistemas embarcados e IoT. <br>
 
-Here are some ideas to get you started:
+## Minhas redes 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+
