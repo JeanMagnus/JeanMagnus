@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil do GitHub 😁
 
   Olá! Meu nome é Jean Magnus, sou técnico em informática formado pelo IFRN, bacharel em ciências e tecnologia pela UFRN e estudante de engenharia de computação também na UFRN. <br>
-  Estudo tecnologias para desenvolvimento full stack, mas atualmente estou aprendendo programação para microcontroladores e pretendo me aperfeiçoar em tecnologias para sistemas embarcados e IoT. <br>
+  Estudo tecnologias para desenvolvimento full stack, mas atualmente estou aprendendo técnicas de inteligência artificial e programação para microcontroladores e pretendo me aperfeiçoar em tecnologias para sistemas embarcados e integração de IA em IoT. <br>
 
 ## Minhas redes 🌐
 
