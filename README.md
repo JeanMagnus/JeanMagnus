@@ -9,7 +9,6 @@ Gosto de unir arquitetura de software (**back-end** e **front-end**) com soluç�
 - 🧠 Machine Learning & Deep Learning
 - 👁️ Visão Computacional
 
-## Principais tecnologias 🛠️
 
 ## Principais tecnologias 🛠️
 
